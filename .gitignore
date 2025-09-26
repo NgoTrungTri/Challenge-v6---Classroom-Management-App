@@ -1,0 +1,41 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Build outputs
+dist/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/editor configs
+.vscode/
+.idea/
+*.swp
+
+# Cache
+.npm
+.cache
+.tmp
+
+# Coverage directory used by testing tools
+coverage/
+
+# Optional lock files (tùy chọn giữ hoặc bỏ)
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
